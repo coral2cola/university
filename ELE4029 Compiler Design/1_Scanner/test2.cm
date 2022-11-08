@@ -1,0 +1,19 @@
+/* for testing cminus_lex */
+
+int sum()
+{
+    int x = 1;
+    int y = 2;
+    int sum = 0;
+
+    sum = x + y;
+
+    return sum;
+}
+
+int main()
+{
+    int result = sum();
+
+    return 0;
+}
