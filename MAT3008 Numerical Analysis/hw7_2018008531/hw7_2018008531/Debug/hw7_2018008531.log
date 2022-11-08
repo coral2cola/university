@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\2021_mat3008_2018008531\hw7_2018008531\hw7_2018008531\main.cpp(16,12): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  hw7_2018008531.vcxproj -> C:\2021_mat3008_2018008531\hw7_2018008531\Debug\hw7_2018008531.exe

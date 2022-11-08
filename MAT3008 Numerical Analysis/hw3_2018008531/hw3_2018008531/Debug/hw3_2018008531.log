@@ -1,0 +1,28 @@
+﻿  rootfinding.cpp
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(61,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(71,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(89,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(100,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(117,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(237,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(279,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(287,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(351,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(357,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(358,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(364,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(370,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(377,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(383,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(384,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(390,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(396,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw3_2018008531\hw3_2018008531\rootfinding.cpp(397,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+hw3_2018008531.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+hw3_2018008531Doc.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+hw3_2018008531View.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+MainFrm.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+muller.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+pch.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+rootfinding.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+  hw3_2018008531.vcxproj -> C:\2021_mat3008_2018008531\hw3_2018008531\Debug\hw3_2018008531.exe

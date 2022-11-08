@@ -1,0 +1,9 @@
+﻿  MainFrm.cpp
+  hw6_2018008531.cpp
+  hw6_2018008531Doc.cpp
+  hw6_2018008531View.cpp
+C:\2021_mat3008_2018008531\hw6_2018008531\hw6_2018008531\hw6_2018008531View.cpp(80,12): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\2021_mat3008_2018008531\hw6_2018008531\hw6_2018008531\hw6_2018008531View.cpp(101,10): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\2021_mat3008_2018008531\hw6_2018008531\hw6_2018008531\hw6_2018008531View.cpp(127,10): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Generating Code...
+  hw6_2018008531.vcxproj -> C:\2021_mat3008_2018008531\hw6_2018008531\Debug\hw6_2018008531.exe

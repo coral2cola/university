@@ -1,0 +1,21 @@
+﻿  data.c
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\data.c(27,19): warning C4101: 'size_n': unreferenced local variable
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\data.c(27,14): warning C4101: 'tmp': unreferenced local variable
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\data.c(27,38): warning C4101: 'j': unreferenced local variable
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\data.c(27,35): warning C4101: 'i': unreferenced local variable
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\data.c(27,27): warning C4101: 'size_m': unreferenced local variable
+  main.c
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\main.c(29,12): warning C4013: 'read_data' undefined; assuming extern returning int
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\main.c(31,14): warning C4013: 'make_matrix' undefined; assuming extern returning int
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\main.c(36,12): warning C4013: 'free_data' undefined; assuming extern returning int
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\main.c(21,10): warning C4101: 'j': unreferenced local variable
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\main.c(21,7): warning C4101: 'i': unreferenced local variable
+  source.c
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\source.c(15,36): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\source.c(46,13): warning C4013: 'free' undefined; assuming extern returning int
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\source.c(110,24): warning C4020: 'check_arr1D': too many actual parameters
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\source.c(145,20): warning C4020: 'check_arr1D': too many actual parameters
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\source.c(125,11): warning C4101: 'd': unreferenced local variable
+C:\2021_mat3008_2018008531\hw9_2018008531\hw9_2018008531\source.c(179,24): warning C4020: 'check_arr1D': too many actual parameters
+  Generating Code...
+  hw9_2018008531.vcxproj -> C:\2021_mat3008_2018008531\hw9_2018008531\Debug\hw9_2018008531.exe

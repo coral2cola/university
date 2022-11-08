@@ -1,0 +1,15 @@
+﻿  equation.cpp
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(119,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(160,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(189,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(191,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(209,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(210,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(298,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(330,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(355,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(382,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw5_2018008531\hw5_2018008531\equation.cpp(467,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  hw5_2018008531.vcxproj -> C:\2021_mat3008_2018008531\hw5_2018008531\Debug\hw5_2018008531.exe

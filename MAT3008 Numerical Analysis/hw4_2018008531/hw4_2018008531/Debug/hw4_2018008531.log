@@ -1,0 +1,34 @@
+﻿  hw4_2018008531View.cpp
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(65,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(65,121): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(66,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(66,121): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(69,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(69,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(70,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(70,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(73,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(73,121): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(74,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(74,121): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(77,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(77,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(78,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(78,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(81,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(81,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(82,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(82,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(85,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(85,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(86,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(86,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(106,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\2021_mat3008_2018008531\hw4_2018008531\hw4_2018008531\hw4_2018008531View.cpp(107,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+hw4_2018008531.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+hw4_2018008531Doc.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+hw4_2018008531View.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+MainFrm.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+pch.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+rootfinding.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+  hw4_2018008531.vcxproj -> C:\2021_mat3008_2018008531\hw4_2018008531\Debug\hw4_2018008531.exe
